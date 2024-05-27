@@ -1,1 +1,1 @@
-# Tarea5-Regresi-nLogica
+# Tarea5-RegresionLogica
